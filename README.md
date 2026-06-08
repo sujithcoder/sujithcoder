@@ -24,9 +24,9 @@
 # GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujithr07&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sujithr07&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujithr07&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=Sujithr07&theme=midnight-purple&hide_border=true" height="170"/>
 </div>
 
 ---
